@@ -1,0 +1,157 @@
+local library = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ShaddowScripts/Main/main/Library"))()
+
+local Main = library:CreateWindow("olidragon210hub","Crimson")
+
+local tab = Main:CreateTab("Chat")
+
+local tab2 = Main:CreateTab("Hub")
+
+local tab3 = Main:CreateTab("Bloxfruit")
+
+local tab4 = Main:CreateTab("Admin")
+
+tab:CreateButton("Fe chat spy",function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/VH3Ew6Y5"))()
+
+end)
+
+tab:CreateButton("FE Chat Translator",function()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/szdMwRVh"))();
+
+end)
+
+tab:CreateButton("ChatBypass",function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x114/RobloxScripts/main/FullChatBypass"))()
+
+end)
+
+tab:CreateButton("fe moderator chat tags",function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IlllIlIIIlllIlIlllIIlIlllIlIIlllI/PartnerPSX/main/FakePartnerTag", true))()
+
+end)
+
+tab2:CreateButton("olidragon210hubv1",function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/olidragon210/olidragon210hubv1.1/main/olidragon210hubv1.1"))();
+
+end)
+
+tab2:CreateButton("fly gui",function()
+
+loadstring(game:HttpGet ("https://raw.githubusercontent.com/Zenoolisama/fly-gui-modded/main/Fly%20gui%20modded"))();
+
+end)
+
+tab2:CreateButton("Vhub",function()
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Veincx5315/Created/VHub/Simple'),true))()
+
+end)
+
+tab2:CreateDropdown("clé vhub",{"ICutMyDickOffWithARazorBlade"},function(a)
+
+print(a)
+
+end)
+
+tab2:CreateButton("IceHub",function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+
+end)
+
+tab2:CreateButton("snoophub",function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/arko34920v2/SnoophubOlivier/main/SnoophubOlivier'))()
+
+end)
+
+tab3:CreateButton("HOHO hub",function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/HohoHub.lua'))()
+
+end)
+
+tab3:CreateButton("sharehack hub",function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SHAREHACK/bloxfruit/main/free'))()
+
+end)
+
+tab3:CreateButton("PlaybackX Hub",function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NeaPchX2/Playback-X-HUB/main/PlaybackXHub.lua"))()
+
+end)
+
+tab3:CreateButton("Nub hub",function()
+
+loadstring(game:HttpGet('https://rawscripts.net/raw/UPDATE-16-Blox-Fruits-Nub-V1-Hub-4583'))()
+
+end)
+
+tab3:CreateButton("Void Hub",function()
+
+loadstring(game:HttpGet("https://voidhubwin.xyz/Script"))()
+
+end)
+
+tab3:CreateButton("Neva hub",function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/VEZ2/NEVAHUBAIMBOT/main/Loader.lua'))()
+
+end)
+
+tab3:CreateButton("Crimson hub",function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/TirSANX/CrimsonHUB/main/C_Loader'))()
+
+end)
+
+tab3:CreateButton("Thunder z Hub",function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderZ-HUB/HUB/main/Aimbot"))()
+
+end)
+
+tab3:CreateButton("Pado hub",function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/REWzaKunGz1/premium/main/PadoHub'))()
+
+end)
+
+tab4:CreateButton("FaelIs admin",function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FaelTheExploiter/LuaU/main/yesssssssirrrrrrrrr", true))()
+
+end)
+
+tab4:CreateButton("FaelIs admin",function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FaelTheExploiter/LuaU/main/yesssssssirrrrrrrrr", true))()
+
+end)
+
+tab4:CreateButton("fe leg's admin",function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/leg1337/legadmv2/main/legadminv2.lua'))()
+
+end)
+
+tab4:CreateButton("Fe Simple Admin",function()
+
+loadstring(game:HttpGet('https://pastebin.com/raw/3hDQcTaD'))()
+
+end)
+
+tab4:CreateButton("fate admin",function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))()
+
+end)
+
+tab:Show()
