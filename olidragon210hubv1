@@ -28,19 +28,19 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/x114/RobloxScripts/ma
 
 end)
 
-tab:CreateButton("fe moderator chat tags",function()
+tab:CreateButton("Fe moderator chat tags",function()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/IlllIlIIIlllIlIlllIIlIlllIlIIlllI/PartnerPSX/main/FakePartnerTag", true))()
 
 end)
 
-tab2:CreateButton("olidragon210hubv1",function()
+tab2:CreateButton("Olidragon210hubv1",function()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/olidragon210/olidragon210hubv1.1/main/olidragon210hubv1.1"))();
 
 end)
 
-tab2:CreateButton("fly gui",function()
+tab2:CreateButton("Fly gui",function()
 
 loadstring(game:HttpGet ("https://raw.githubusercontent.com/Zenoolisama/fly-gui-modded/main/Fly%20gui%20modded"))();
 
@@ -64,7 +64,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/ma
 
 end)
 
-tab2:CreateButton("snoophub",function()
+tab2:CreateButton("Snoophub",function()
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/arko34920v2/SnoophubOlivier/main/SnoophubOlivier'))()
 
@@ -76,7 +76,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/H
 
 end)
 
-tab3:CreateButton("sharehack hub",function()
+tab3:CreateButton("Sharehack hub",function()
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/SHAREHACK/bloxfruit/main/free'))()
 
@@ -136,7 +136,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/FaelTheExploiter/LuaU
 
 end)
 
-tab4:CreateButton("fe leg's admin",function()
+tab4:CreateButton("Fe leg's admin",function()
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/leg1337/legadmv2/main/legadminv2.lua'))()
 
@@ -148,7 +148,7 @@ loadstring(game:HttpGet('https://pastebin.com/raw/3hDQcTaD'))()
 
 end)
 
-tab4:CreateButton("fate admin",function()
+tab4:CreateButton("Fate admin",function()
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))()
 
